@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "userId": 123,
+      "name": "Jan",
+      "surname": "Kowalski",
+      "pesel": "85101509089",
+      "mail": "jan@wp.pl",
+      "type": "user"
+    },
+    {
+      "userId": 231,
+      "name": "Janina",
+      "surname": "Marczewska",
+      "pesel": "85041956852",
+      "mail": "abc@onet.pl",
+      "type": "user"
+    },
+    {
+      "userId": 321,
+      "name": "Maria",
+      "surname": "Nowak",
+      "pesel": "56071135968",
+      "mail": "ktos@wp.pl",
+      "type": "user"
+    },
+    {
+      "userId": 1,
+      "name": "Anna",
+      "surname": "Nowakowska",
+      "pesel": "80120457456",
+      "mail": "admin1@wp.pl",
+      "type": "admin"
+    },
+    {
+      "userId": 2,
+      "name": "Adam",
+      "surname": "Kowalski",
+      "pesel": "78052332012",
+      "mail": "admin2@wp.pl",
+      "type": "admin"
+    }
+  ],
+  "projects": [
+    {
+      "name": "rewitalizacja parku",
+      "description": "ma na celu przywrócenie parkowi funkcji rekreacyjnej i społecznej, tak by integrował różne pokolenia. Proponowany projekt zakłada, że park będzie służył nie tylko rodzinom z dziećmi, ale również młodzieży i seniorom.\n\nRewitalizacja obejmuje teren o powierzchni ponad 4,35 ha, na działkach: 235/3, 232/18 oraz 235/1; Obręb: 45. (Fot.A)\nKontury oznaczone zielonym kolorem przedstawiają obszar, który prawie w całości pokrywa dzisiejszy Park Kleparski (Fot.B)\n\nW ramach prac przewiduje się:\n\n► Wykonanie całościowego projektu rewitalizacji PARKU KLEPARSKIEGO\n\n► Stworzenie dogodnej sieci wejść do PARKU, aby mogły z nich korzystać osoby niepełnosprawne, matki z wózkami oraz rowerzyści i miłośnicy rolek, deskorolek czy też hulajnog.\n",
+      "status": "A",
+      "koszt": "457968",
+      "id": 2
+    },
+    {
+      "name": "budowa ścieżki rowerowej",
+      "description": "Drogi dla rowerów powinny powstawać tam, gdzie są potrzebne; nie tam, gdzie nikomu nie przeszkadzają.\n\nWzdłuż głównych ulic z rzadko rozmieszczonymi skrzyżowaniami przydają się dwukierunkowe ścieżki po obu stronach. Jeśli ścieżka prowadzona jest tylko po jednej stronie ulicy, należy wybrać tę stronę, po której jest więcej źródeł i celów podróży i konsekwentnie się jej trzymać.\n\nKonieczna jest perfekcyjna integracja z okoliczną siecią drogową - połączenia z innymi ulicami i trasami rowerowymi.",
+      "status": "A",
+      "koszt": "200000",
+      "id": 3
+    },
+    {
+      "name": "budowa ścieżki rowerowej",
+      "description": "opis projektu, opis projektu, opis projektu, opis projektu",
+      "status": "Z",
+      "koszt": "150236",
+      "id": 4
+    }
+  ],
+  "votes": [
+    {
+      "id": 33,
+      "userId": 123,
+      "projectId": 4,
+      "points": 1
+    }
+  ]
+}
