@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e398c6e1-505a-414a-a2af-f7be8daffc2f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
@@ -32,7 +32,7 @@
           <entry key="css" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="js" value="11" />
+          <entry key="js" value="12" />
           <entry key="json" value="8" />
           <entry key="jsx" value="3" />
           <entry key="scss" value="6" />
@@ -41,7 +41,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="ECMAScript 6" value="11" />
+          <entry key="ECMAScript 6" value="12" />
           <entry key="HTML" value="2" />
           <entry key="JSON" value="8" />
           <entry key="JSX Harmony" value="3" />
@@ -53,17 +53,17 @@
         <counts>
           <entry key="gitignore" value="25" />
           <entry key="html" value="50" />
-          <entry key="js" value="22" />
-          <entry key="json" value="547" />
+          <entry key="js" value="24" />
+          <entry key="json" value="613" />
           <entry key="jsx" value="9019" />
           <entry key="scss" value="2354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ECMAScript 6" value="22" />
+          <entry key="ECMAScript 6" value="24" />
           <entry key="HTML" value="50" />
-          <entry key="JSON" value="547" />
+          <entry key="JSON" value="613" />
           <entry key="JSX Harmony" value="9019" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="SCSS" value="2354" />
@@ -94,6 +94,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="190">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -138,12 +147,12 @@
         <option value="$PROJECT_DIR$/projects.json" />
         <option value="$PROJECT_DIR$/admin.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/js/app.jsx" />
         <option value="$PROJECT_DIR$/db.json" />
         <option value="$PROJECT_DIR$/src/scss/main.scss" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -162,8 +171,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1000" />
-    <option name="y" value="194" />
+    <option name="x" value="1238" />
+    <option name="y" value="153" />
     <option name="width" value="1836" />
     <option name="height" value="1026" />
   </component>
@@ -244,18 +253,18 @@
       <workItem from="1533368063428" duration="44404000" />
       <workItem from="1533666513790" duration="18136000" />
       <workItem from="1534271568264" duration="20808000" />
-      <workItem from="1534587858141" duration="7966000" />
+      <workItem from="1534587858141" duration="9350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115110000" />
+    <option name="totallyTimeSpent" value="116494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1000" y="194" width="1836" height="1026" extended-state="0" />
+    <frame x="1238" y="153" width="1836" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18257032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18257032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -360,13 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -400,8 +402,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="190">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
