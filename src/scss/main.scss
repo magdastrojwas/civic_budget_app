@@ -4,7 +4,7 @@ $main-color: #555555;
   box-sizing: border-box;
   margin:0;
   padding: 0;
-  font-family: 'Meera Inimai', 'Arial', sans-serif;
+  font-family: 'Montserrat', 'Arial', sans-serif;
 }
 #mainTemplate {
   width: 100%;
@@ -111,11 +111,13 @@ nav{
     justify-content: center;
     input[type="submit"] {
       width: 70px;
-      padding: 5px 13px;
+      padding: 1% 0;
       border: 1px solid #005f85;
       color: white;
       text-shadow: 0 0 1px black;
       background: #98c9dc;
+      display: flex;
+      justify-content: center;
     }
   }
 }

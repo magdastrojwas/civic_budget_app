@@ -8,7 +8,7 @@ module.exports = {
         contentBase: './',
         port: 3001
     },
-    //watch: true,
+    watch: true,
     module: {
         loaders: [{
             test: /\.jsx$/,  exclude: /node_modules/,

@@ -17,11 +17,35 @@
       "type": "user"
     },
     {
-      "userId": 321,
+      "userId": 322,
       "name": "Maria",
       "surname": "Nowak",
       "pesel": "56071135968",
       "mail": "ktos@wp.pl",
+      "type": "user"
+    },
+    {
+      "userId": 323,
+      "name": "Monika",
+      "surname": "Kowalska",
+      "pesel": "85101509333",
+      "mail": "monika@wp.pl",
+      "type": "user"
+    },
+    {
+      "userId": 423,
+      "name": "Paweł",
+      "surname": "Kowalski",
+      "pesel": "85121509089",
+      "mail": "pawel@wp.pl",
+      "type": "user"
+    },
+    {
+      "userId": 523,
+      "name": "Adam",
+      "surname": "Kowalski",
+      "pesel": "75101509089",
+      "mail": "adam@wp.pl",
       "type": "user"
     },
     {
@@ -55,13 +79,6 @@
       "status": "A",
       "koszt": "200000",
       "id": 3
-    },
-    {
-      "name": "budowa ścieżki rowerowej",
-      "description": "opis projektu, opis projektu, opis projektu, opis projektu",
-      "status": "Z",
-      "koszt": "150236",
-      "id": 4
     }
   ],
   "votes": [
